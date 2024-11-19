@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "pil",
+    "section": "",
+    "text": "Kaip naudoti programą FreeTube ir prenumeruoti kanalus\n\n\n\n\n\n\nlinux\n\n\napp\n\n\n\n\n\n\n\n\n\nNov 19, 2024\n\n\nJustas Mundeikis\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/freetube1/index.html",
+    "href": "posts/freetube1/index.html",
+    "title": "Kaip naudoti programą FreeTube ir prenumeruoti kanalus",
+    "section": "",
+    "text": "Šioje pamokoje išmoksi:\n\nKaip atidaryti programą FreeTube.\nKaip ieškoti vaizdo įrašų.\nKaip užsiprenumeruoti kanalą ir valdyti prenumeratas.\nKaip išsaugoti vaizdo įrašus į mėgstamiausių sąrašą."
+  },
+  {
+    "objectID": "posts/freetube1/index.html#įžanga",
+    "href": "posts/freetube1/index.html#įžanga",
+    "title": "Kaip naudoti programą FreeTube ir prenumeruoti kanalus",
+    "section": "",
+    "text": "Šioje pamokoje išmoksi:\n\nKaip atidaryti programą FreeTube.\nKaip ieškoti vaizdo įrašų.\nKaip užsiprenumeruoti kanalą ir valdyti prenumeratas.\nKaip išsaugoti vaizdo įrašus į mėgstamiausių sąrašą."
+  },
+  {
+    "objectID": "posts/freetube1/index.html#programos-atidarymas",
+    "href": "posts/freetube1/index.html#programos-atidarymas",
+    "title": "Kaip naudoti programą FreeTube ir prenumeruoti kanalus",
+    "section": "Programos atidarymas",
+    "text": "Programos atidarymas\n\nNaudojant darbalaukio piktogramą\n\nDarbalaukyje (“ant ekrano”) surask FreeTube piktogramą.\nDukart spustelėk ant jos.\n\n\narba…\n\n\nNaudojant meniu\n\nPaspausk Menu ikoną. Atsidarys meniu langas.\n\nPradėk rašyti free. Sistema automatiškai filtruos programas ir parodys FreeTube. Tau nereikia su pele paspausti ant paieškos laukelio.\n\nSpustelėk programą vieną kartą, ir ji bus atidaryta."
+  },
+  {
+    "objectID": "posts/freetube1/index.html#pirmasis-ekranas",
+    "href": "posts/freetube1/index.html#pirmasis-ekranas",
+    "title": "Kaip naudoti programą FreeTube ir prenumeruoti kanalus",
+    "section": "Pirmasis ekranas",
+    "text": "Pirmasis ekranas\nAtidarius programai, pamatysi tokį pagrindinį langą:\n\n\nPagrindiniai pasirinkimai\n\nKairėje pusėje rasi pagrindinius meniu punktus:\n\nPaieškos laukelis: čia gali įvesti norimą ieškoti frazę arba vaizdo įrašo URL. Įrašius spausk Enter arba paspausk lūpos simbolį.\n\nFiltrai: spustelėk filtrų ikoną, jei nori pakeisti paieškos rezultatus pagal:\n\nAktualumą,\nĮkėlimo laiką,\nVaizdo įrašo tipą.\n\n\nPastaba: Filtrai išlieka aktyvūs tol, kol jų nenustatai į standartinius nustatymus. Taip pat jie nekeičia jau grąžintų video sąrašo, tad turi dar kartą spausti ant lūpos simbolio."
+  },
+  {
+    "objectID": "posts/freetube1/index.html#vaizdo-įrašų-peržiūra",
+    "href": "posts/freetube1/index.html#vaizdo-įrašų-peržiūra",
+    "title": "Kaip naudoti programą FreeTube ir prenumeruoti kanalus",
+    "section": "Vaizdo įrašų peržiūra",
+    "text": "Vaizdo įrašų peržiūra\nPaspaudus ant vaizdo įrašo, pamatysi šiuos pasirinkimus:\n\n\nPrenumerata: po vaizdo įrašu rasi kanalo pavadinimą ir mygtuką:\n\nSubscribe, jei nori užsiprenumeruoti.\nUnsubscribe, jei jau prenumeruoji.\n\nPrenumeruojamų kanalų naujausi vaizdo įrašai bus rodomi pagrindiniame lange, skiltyje Subscriptions.\nIšsaugojimas:\n\nSpustelėk +, kad pridėtum vaizdo įrašą į savo grojaraštį.\nFavorite ikona leidžia tiesiogiai pridėti į mėgstamiausių sąrašą.\n\nNustatymai: Vaizdo peržiūros ekrane rasi valdymo ikonėles, skirtas:\n\nPakeisti vaizdo įrašo kokybę (rezoliuciją),\nAktyvuoti viso ekrano režimą ir kt.\n\n\nSpustelėjęs ant raiškos nustatymų, gali pasirinkti didesnę raišką geresnei kokybei arba mažesnę, jei vaizdo įrašas stringa."
+  },
+  {
+    "objectID": "posts/freetube1/index.html#praktikos-užduotys",
+    "href": "posts/freetube1/index.html#praktikos-užduotys",
+    "title": "Kaip naudoti programą FreeTube ir prenumeruoti kanalus",
+    "section": "Praktikos užduotys",
+    "text": "Praktikos užduotys\n\nPaieškos laukelyje įvesk zdf.\n\nPrenumeruok kanalą ZDF heute.\n\nPatikrink, ar tavo Subscriptions sąraše atsirado ZDF heute kanalų vaizdo įrašai. Rezultatai gali skirtis, nes įkeliami nauji vaizdo įrašai.\n\nSurask Puccini - Turandot (2024) vaizdo įrašą.\n\nAtidaryk šį vaizdo įrašą ir pridėk jį į Favorite sąrašą.\nGalutinis rezultatas turėtų atrodyti taip:"
+  },
+  {
+    "objectID": "posts/freetube1/index.html#pabaiga",
+    "href": "posts/freetube1/index.html#pabaiga",
+    "title": "Kaip naudoti programą FreeTube ir prenumeruoti kanalus",
+    "section": "Pabaiga",
+    "text": "Pabaiga\nDabar jau moki naudotis FreeTube programa, ieškoti vaizdo įrašų, prenumeruoti kanalus ir tvarkyti savo grojaraščius."
+  }
+]
