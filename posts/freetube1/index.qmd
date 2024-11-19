@@ -1,0 +1,116 @@
+---
+title: "Kaip naudoti programą FreeTube ir prenumeruoti kanalus"
+author: "Justas Mundeikis"
+date: "2024-11-19"
+categories: [linux, app]
+image: "freetube.png"
+---
+
+## Įžanga
+
+Šioje pamokoje išmoksi:
+
+1. Kaip atidaryti programą FreeTube.
+2. Kaip ieškoti vaizdo įrašų.
+3. Kaip užsiprenumeruoti kanalą ir valdyti prenumeratas.
+4. Kaip išsaugoti vaizdo įrašus į mėgstamiausių sąrašą.
+
+---
+
+## Programos atidarymas
+
+### Naudojant darbalaukio piktogramą
+
+1. Darbalaukyje ("ant ekrano") surask FreeTube piktogramą.
+2. Dukart spustelėk ant jos.  
+   
+   ![](FreeTube_desktop.png)
+
+arba... 
+
+### Naudojant meniu
+
+1. Paspausk **Menu** ikoną. Atsidarys meniu langas.
+   
+   ![](menu_start.png)
+2. Pradėk rašyti `free`. Sistema automatiškai filtruos programas ir parodys FreeTube. Tau nereikia su pele paspausti ant paieškos laukelio.
+   
+   ![](menu_start_typing.png)
+3. Spustelėk programą **vieną kartą**, ir ji bus atidaryta.
+
+---
+
+## Pirmasis ekranas
+
+Atidarius programai, pamatysi tokį pagrindinį langą:
+
+![](FreeTube_basic.png)
+
+### Pagrindiniai pasirinkimai
+
+1. **Kairėje pusėje** rasi pagrindinius meniu punktus:
+   
+   ![](FreeTube_basic_selection.png)
+
+2. **Paieškos laukelis:** čia gali įvesti norimą ieškoti frazę arba vaizdo įrašo URL. Įrašius spausk **Enter** arba paspausk **lūpos simbolį**.
+   
+   ![](FreeTube_basic_search.png)
+
+3. **Filtrai:** spustelėk filtrų ikoną, jei nori pakeisti paieškos rezultatus pagal:
+   - Aktualumą,
+   - Įkėlimo laiką,
+   - Vaizdo įrašo tipą.  
+   
+   ![](FreeTube_basic_filters.png)
+
+   **Pastaba:** Filtrai išlieka aktyvūs tol, kol jų nenustatai į standartinius nustatymus. Taip pat jie nekeičia jau grąžintų video sąrašo, tad turi dar kartą spausti ant  **lūpos simbolio**.
+
+---
+
+## Vaizdo įrašų peržiūra
+
+Paspaudus ant vaizdo įrašo, pamatysi šiuos pasirinkimus:
+
+![](FreeTube_basic_play.png)
+
+1. **Prenumerata:** po vaizdo įrašu rasi kanalo pavadinimą ir mygtuką:
+   - **Subscribe**, jei nori užsiprenumeruoti.
+   - **Unsubscribe**, jei jau prenumeruoji.
+
+   Prenumeruojamų kanalų naujausi vaizdo įrašai bus rodomi pagrindiniame lange, skiltyje **Subscriptions**.
+
+2. **Išsaugojimas:** 
+   - Spustelėk **+**, kad pridėtum vaizdo įrašą į savo grojaraštį.
+   - **Favorite** ikona leidžia tiesiogiai pridėti į mėgstamiausių sąrašą.
+
+3. **Nustatymai:** Vaizdo peržiūros ekrane rasi valdymo ikonėles, skirtas:
+   - Pakeisti vaizdo įrašo kokybę (rezoliuciją),
+   - Aktyvuoti viso ekrano režimą ir kt.  
+     
+     ![](raiska.png)
+
+   Spustelėjęs ant raiškos nustatymų, gali pasirinkti didesnę raišką geresnei kokybei arba mažesnę, jei vaizdo įrašas stringa.
+   
+   ![](raiska2.png)
+
+---
+
+## Praktikos užduotys
+
+1. Paieškos laukelyje įvesk `zdf`.  
+2. Prenumeruok kanalą **ZDF heute**.  
+3. Patikrink, ar tavo **Subscriptions** sąraše atsirado ZDF heute kanalų vaizdo įrašai. Rezultatai gali skirtis, nes įkeliami nauji vaizdo įrašai.
+   
+   ![](zdf.png)
+
+4. Surask `Puccini - Turandot (2024)` vaizdo įrašą.  
+5. Atidaryk šį vaizdo įrašą ir pridėk jį į **Favorite** sąrašą.  
+   Galutinis rezultatas turėtų atrodyti taip:
+   
+   ![](turandot.png)
+
+---
+
+## Pabaiga
+
+Dabar jau moki naudotis FreeTube programa, ieškoti vaizdo įrašų, prenumeruoti kanalus ir tvarkyti savo grojaraščius.
